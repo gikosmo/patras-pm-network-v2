@@ -1,0 +1,310 @@
+{
+  "station_source": {
+    "_comment": "Sensor selection is an explicit ID list from the network's own station spreadsheet, not a lat/long bounding box. Regenerate this list with scripts/build_station_list.py whenever the spreadsheet changes.",
+    "list_file": "data/patras_station_list.csv"
+  },
+  "station_ids": [
+    101537,
+    1006,
+    1566,
+    56491,
+    1672,
+    199161,
+    14857,
+    23759,
+    56113,
+    133608,
+    308300,
+    101597,
+    101609,
+    101611,
+    30673,
+    116355,
+    116369,
+    199705,
+    202609,
+    294289,
+    121199,
+    202603,
+    121529,
+    121539,
+    293989,
+    121547,
+    121513,
+    121535,
+    57523,
+    298495,
+    14993,
+    26539,
+    31135,
+    23837,
+    5092
+  ],
+  "stations": [
+    {
+      "sensor_index": 101537,
+      "sn": "1",
+      "name": "Agia",
+      "latitude": 38.26301,
+      "longitude": 21.74841
+    },
+    {
+      "sensor_index": 1006,
+      "sn": "2",
+      "name": "Platani",
+      "latitude": 38.297756,
+      "longitude": 21.822891
+    },
+    {
+      "sensor_index": 1566,
+      "sn": "3",
+      "name": "University of Patras",
+      "latitude": 38.289433,
+      "longitude": 21.785513
+    },
+    {
+      "sensor_index": 56491,
+      "sn": "4",
+      "name": "Rio",
+      "latitude": 38.304512,
+      "longitude": 21.794697
+    },
+    {
+      "sensor_index": 1672,
+      "sn": "5",
+      "name": "Kastelokampos",
+      "latitude": 38.289345,
+      "longitude": 21.773867
+    },
+    {
+      "sensor_index": 199161,
+      "sn": "6",
+      "name": "PANSEN_PATRA_PSILALONIA",
+      "latitude": 38.23952,
+      "longitude": 21.734823
+    },
+    {
+      "sensor_index": 14857,
+      "sn": "7",
+      "name": "Demenika",
+      "latitude": 38.200115,
+      "longitude": 21.743774
+    },
+    {
+      "sensor_index": 23759,
+      "sn": "8",
+      "name": "Germanou",
+      "latitude": 38.241177,
+      "longitude": 21.741581
+    },
+    {
+      "sensor_index": 56113,
+      "sn": "9",
+      "name": "Kato Sichena",
+      "latitude": 38.265163,
+      "longitude": 21.756952
+    },
+    {
+      "sensor_index": 133608,
+      "sn": "10",
+      "name": "Kritika",
+      "latitude": 38.24307,
+      "longitude": 21.744677
+    },
+    {
+      "sensor_index": 308300,
+      "sn": "11",
+      "name": "Lefka_2026",
+      "latitude": 38.20659,
+      "longitude": 21.727135
+    },
+    {
+      "sensor_index": 101597,
+      "sn": "12",
+      "name": "Vlatero",
+      "latitude": 38.247807,
+      "longitude": 21.741768
+    },
+    {
+      "sensor_index": 101609,
+      "sn": "13",
+      "name": "Paralia",
+      "latitude": 38.19944,
+      "longitude": 21.699192
+    },
+    {
+      "sensor_index": 101611,
+      "sn": "14",
+      "name": "Trion Navarchon",
+      "latitude": 38.242233,
+      "longitude": 21.731613
+    },
+    {
+      "sensor_index": 30673,
+      "sn": "15",
+      "name": "New Port of Patras",
+      "latitude": 38.22473,
+      "longitude": 21.71987
+    },
+    {
+      "sensor_index": 116355,
+      "sn": "16",
+      "name": "Ano Sichaina",
+      "latitude": 38.2593383,
+      "longitude": 21.7700424
+    },
+    {
+      "sensor_index": 116369,
+      "sn": "17",
+      "name": "Ano Anthoupoli",
+      "latitude": 38.2623291,
+      "longitude": 21.7612012
+    },
+    {
+      "sensor_index": 199705,
+      "sn": "18",
+      "name": "Romanos",
+      "latitude": 38.228361,
+      "longitude": 21.787469
+    },
+    {
+      "sensor_index": 202609,
+      "sn": "19",
+      "name": "49 Dimotiko Patras",
+      "latitude": 38.27691,
+      "longitude": 21.760338
+    },
+    {
+      "sensor_index": 294289,
+      "sn": "20",
+      "name": "23 Dimotiko Patras 2025",
+      "latitude": 38.258595,
+      "longitude": 21.750065
+    },
+    {
+      "sensor_index": 121199,
+      "sn": "21",
+      "name": "Gymnasio Ovryas",
+      "latitude": 38.188732,
+      "longitude": 21.72195
+    },
+    {
+      "sensor_index": 202603,
+      "sn": "22",
+      "name": "64 Dimotiko Patras",
+      "latitude": 38.26444,
+      "longitude": 21.741283
+    },
+    {
+      "sensor_index": 121529,
+      "sn": "23",
+      "name": "Dimotiko Saravaliou",
+      "latitude": 38.191635,
+      "longitude": 21.760658
+    },
+    {
+      "sensor_index": 121539,
+      "sn": "24",
+      "name": "Peiramatiko Lagoura",
+      "latitude": 38.230366,
+      "longitude": 21.745886
+    },
+    {
+      "sensor_index": 293989,
+      "sn": "25",
+      "name": "19 Gymnasio Patras 2025",
+      "latitude": 38.213306,
+      "longitude": 21.726892
+    },
+    {
+      "sensor_index": 121547,
+      "sn": "26",
+      "name": "20 Gymnasio Patras",
+      "latitude": 38.208508,
+      "longitude": 21.773191
+    },
+    {
+      "sensor_index": 121513,
+      "sn": "27",
+      "name": "5 Gymnasio Patron",
+      "latitude": 38.23702974,
+      "longitude": 21.74642157
+    },
+    {
+      "sensor_index": 121535,
+      "sn": "28",
+      "name": "15 Dimotiko Patras",
+      "latitude": 38.23509195,
+      "longitude": 21.745478
+    },
+    {
+      "sensor_index": 57523,
+      "sn": "29",
+      "name": "Drepano",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "sensor_index": 298495,
+      "sn": "30",
+      "name": "Araxovitika 2025",
+      "latitude": 38.33,
+      "longitude": 21.84139
+    },
+    {
+      "sensor_index": 14993,
+      "sn": "31",
+      "name": "Upatras Ps",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "sensor_index": 26539,
+      "sn": "32",
+      "name": "Nafpaktos-Kotroni",
+      "latitude": 38.3806655,
+      "longitude": 21.79871956
+    },
+    {
+      "sensor_index": 31135,
+      "sn": "33",
+      "name": "Nafpaktos-Siamanta",
+      "latitude": 38.39656,
+      "longitude": 21.71781
+    },
+    {
+      "sensor_index": 23837,
+      "sn": "34",
+      "name": "FORTH",
+      "latitude": 38.2977342,
+      "longitude": 21.80899786
+    },
+    {
+      "sensor_index": 5092,
+      "sn": null,
+      "name": "Kypseli",
+      "latitude": 38.224144,
+      "longitude": 21.735792
+    }
+  ],
+  "history": {
+    "average_minutes": 10,
+    "_comment": "PurpleAir 'average' param: 0=raw(~2min),10,30,60,360(6h),1440(1day)"
+  },
+  "thresholds": {
+    "offline_hours": 2,
+    "r2_warning": 0.9,
+    "r2_fault": 0.7,
+    "slope_warning_low": 0.85,
+    "slope_warning_high": 1.15,
+    "slope_fault_low": 0.5,
+    "slope_fault_high": 2.0,
+    "min_paired_points": 20,
+    "_comment": "min_paired_points = minimum simultaneous A&B readings required to trust the regression for that day"
+  },
+  "output": {
+    "raw_dir": "data/raw",
+    "results_dir": "data/results",
+    "site_data_dir": "site/data"
+  }
+}
