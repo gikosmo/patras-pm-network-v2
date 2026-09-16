@@ -6,7 +6,7 @@ on:
     # backwards (24h / 168h), so the exact time of day doesn't matter —
     # "Last day" and "Last 7 days" will simply end at whatever time this
     # job happens to run.
-    - cron: "0 4 * * *"
+    - cron: "3 7 * * *"
   workflow_dispatch:
     inputs:
       days:
