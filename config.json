@@ -7,7 +7,7 @@
     101537,
     1006,
     1566,
-    56491,
+    308904,
     1672,
     199161,
     14857,
@@ -17,8 +17,8 @@
     308300,
     101597,
     101609,
-    101611,
-    30673,
+    321740,
+    321096,
     116355,
     116369,
     199705,
@@ -26,19 +26,23 @@
     294289,
     121199,
     202603,
-    121529,
+    308896,
     121539,
     293989,
-    121547,
     121513,
-    121535,
+    202577,
     57523,
     298495,
     14993,
     26539,
     31135,
     23837,
-    5092
+    321726,
+    308886,
+    308902,
+    1712,
+    98001,
+    105810
   ],
   "stations": [
     {
@@ -63,7 +67,7 @@
       "longitude": 21.785513
     },
     {
-      "sensor_index": 56491,
+      "sensor_index": 308904,
       "sn": "4",
       "name": "Rio",
       "latitude": 38.304512,
@@ -133,18 +137,18 @@
       "longitude": 21.699192
     },
     {
-      "sensor_index": 101611,
+      "sensor_index": 321740,
       "sn": "14",
       "name": "Trion Navarchon",
       "latitude": 38.242233,
       "longitude": 21.731613
     },
     {
-      "sensor_index": 30673,
+      "sensor_index": 321096,
       "sn": "15",
       "name": "New Port of Patras",
-      "latitude": 38.22473,
-      "longitude": 21.71987
+      "latitude": 38.225172,
+      "longitude": 21.719714
     },
     {
       "sensor_index": 116355,
@@ -196,11 +200,11 @@
       "longitude": 21.741283
     },
     {
-      "sensor_index": 121529,
+      "sensor_index": 308896,
       "sn": "23",
       "name": "Dimotiko Saravaliou",
-      "latitude": 38.191635,
-      "longitude": 21.760658
+      "latitude": 38.191679,
+      "longitude": 21.760722
     },
     {
       "sensor_index": 121539,
@@ -217,74 +221,102 @@
       "longitude": 21.726892
     },
     {
-      "sensor_index": 121547,
-      "sn": "26",
-      "name": "20 Gymnasio Patras",
-      "latitude": 38.208508,
-      "longitude": 21.773191
-    },
-    {
       "sensor_index": 121513,
-      "sn": "27",
+      "sn": "26",
       "name": "5 Gymnasio Patron",
       "latitude": 38.23702974,
       "longitude": 21.74642157
     },
     {
-      "sensor_index": 121535,
-      "sn": "28",
-      "name": "15 Dimotiko Patras",
-      "latitude": 38.23509195,
-      "longitude": 21.745478
+      "sensor_index": 202577,
+      "sn": "27",
+      "name": "15_Dimotiko_Patras_2026",
+      "latitude": 38.23502674,
+      "longitude": 21.74546137
     },
     {
       "sensor_index": 57523,
-      "sn": "29",
+      "sn": "28",
       "name": "Drepano",
       "latitude": null,
       "longitude": null
     },
     {
       "sensor_index": 298495,
-      "sn": "30",
+      "sn": "29",
       "name": "Araxovitika 2025",
       "latitude": 38.33,
       "longitude": 21.84139
     },
     {
       "sensor_index": 14993,
-      "sn": "31",
+      "sn": "30",
       "name": "Upatras Ps",
       "latitude": null,
       "longitude": null
     },
     {
       "sensor_index": 26539,
-      "sn": "32",
+      "sn": "31",
       "name": "Nafpaktos-Kotroni",
       "latitude": 38.3806655,
       "longitude": 21.79871956
     },
     {
       "sensor_index": 31135,
-      "sn": "33",
+      "sn": "32",
       "name": "Nafpaktos-Siamanta",
       "latitude": 38.39656,
       "longitude": 21.71781
     },
     {
       "sensor_index": 23837,
-      "sn": "34",
+      "sn": "33",
       "name": "FORTH",
       "latitude": 38.2977342,
       "longitude": 21.80899786
     },
     {
-      "sensor_index": 5092,
+      "sensor_index": 321726,
+      "sn": "101",
+      "name": "Minority_Ps_01",
+      "latitude": 38.29492319,
+      "longitude": 21.79491725
+    },
+    {
+      "sensor_index": 308886,
+      "sn": "102",
+      "name": "Minority_Peir_02",
+      "latitude": 38.28131738,
+      "longitude": 21.79029856
+    },
+    {
+      "sensor_index": 308902,
+      "sn": "103",
+      "name": "Minority_Upat_03_indoor",
+      "latitude": 38.29140188,
+      "longitude": 21.78857095
+    },
+    {
+      "sensor_index": 1712,
       "sn": null,
-      "name": "Kypseli",
-      "latitude": 38.224144,
-      "longitude": 21.735792
+      "name": "Koukouli",
+      "latitude": 38.21937,
+      "longitude": 21.756044
+    },
+    {
+      "sensor_index": 98001,
+      "sn": null,
+      "name": "Agia Sofia",
+      "latitude": 38.25757,
+      "longitude": 21.7418
+    },
+    {
+      "sensor_index": 105810,
+      "sn": null,
+      "name": "Agia Sofia old2",
+      "latitude": 38.26301,
+      "longitude": 21.74841
     }
   ],
   "history": {
