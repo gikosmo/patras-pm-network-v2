@@ -22,7 +22,6 @@
     116355,
     116369,
     199705,
-    202609,
     294289,
     121199,
     202603,
@@ -39,10 +38,7 @@
     23837,
     321726,
     308886,
-    308902,
-    1712,
-    98001,
-    105810
+    308902
   ],
   "stations": [
     {
@@ -172,106 +168,99 @@
       "longitude": 21.787469
     },
     {
-      "sensor_index": 202609,
-      "sn": "19",
-      "name": "49 Dimotiko Patras",
-      "latitude": 38.27691,
-      "longitude": 21.760338
-    },
-    {
       "sensor_index": 294289,
-      "sn": "20",
+      "sn": "19",
       "name": "23 Dimotiko Patras 2025",
       "latitude": 38.258595,
       "longitude": 21.750065
     },
     {
       "sensor_index": 121199,
-      "sn": "21",
+      "sn": "20",
       "name": "Gymnasio Ovryas",
       "latitude": 38.188732,
       "longitude": 21.72195
     },
     {
       "sensor_index": 202603,
-      "sn": "22",
+      "sn": "21",
       "name": "64 Dimotiko Patras",
       "latitude": 38.26444,
       "longitude": 21.741283
     },
     {
       "sensor_index": 308896,
-      "sn": "23",
+      "sn": "22",
       "name": "Dimotiko Saravaliou",
       "latitude": 38.191679,
       "longitude": 21.760722
     },
     {
       "sensor_index": 121539,
-      "sn": "24",
+      "sn": "23",
       "name": "Peiramatiko Lagoura",
       "latitude": 38.230366,
       "longitude": 21.745886
     },
     {
       "sensor_index": 293989,
-      "sn": "25",
+      "sn": "24",
       "name": "19 Gymnasio Patras 2025",
       "latitude": 38.213306,
       "longitude": 21.726892
     },
     {
       "sensor_index": 121513,
-      "sn": "26",
+      "sn": "25",
       "name": "5 Gymnasio Patron",
       "latitude": 38.23702974,
       "longitude": 21.74642157
     },
     {
       "sensor_index": 202577,
-      "sn": "27",
+      "sn": "26",
       "name": "15_Dimotiko_Patras_2026",
       "latitude": 38.23502674,
       "longitude": 21.74546137
     },
     {
       "sensor_index": 57523,
-      "sn": "28",
+      "sn": "27",
       "name": "Drepano",
       "latitude": null,
       "longitude": null
     },
     {
       "sensor_index": 298495,
-      "sn": "29",
+      "sn": "28",
       "name": "Araxovitika 2025",
       "latitude": 38.33,
       "longitude": 21.84139
     },
     {
       "sensor_index": 14993,
-      "sn": "30",
+      "sn": "29",
       "name": "Upatras Ps",
       "latitude": null,
       "longitude": null
     },
     {
       "sensor_index": 26539,
-      "sn": "31",
+      "sn": "30",
       "name": "Nafpaktos-Kotroni",
       "latitude": 38.3806655,
       "longitude": 21.79871956
     },
     {
       "sensor_index": 31135,
-      "sn": "32",
+      "sn": "31",
       "name": "Nafpaktos-Siamanta",
       "latitude": 38.39656,
       "longitude": 21.71781
     },
     {
       "sensor_index": 23837,
-      "sn": "33",
+      "sn": "32",
       "name": "FORTH",
       "latitude": 38.2977342,
       "longitude": 21.80899786
@@ -296,27 +285,6 @@
       "name": "Minority_Upat_03_indoor",
       "latitude": 38.29140188,
       "longitude": 21.78857095
-    },
-    {
-      "sensor_index": 1712,
-      "sn": null,
-      "name": "Koukouli",
-      "latitude": 38.21937,
-      "longitude": 21.756044
-    },
-    {
-      "sensor_index": 98001,
-      "sn": null,
-      "name": "Agia Sofia",
-      "latitude": 38.25757,
-      "longitude": 21.7418
-    },
-    {
-      "sensor_index": 105810,
-      "sn": null,
-      "name": "Agia Sofia old2",
-      "latitude": 38.26301,
-      "longitude": 21.74841
     }
   ],
   "history": {
