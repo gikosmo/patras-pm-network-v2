@@ -5,11 +5,11 @@ columns: SN, ID, Name, Network, Active, Location, latitude, longitude,
 Purple Air map name, Site description, Mac Address, Installation Date,
 Uninstalled, Owner, Associated, Notes).
 
-A station counts as "active" (included) when its Uninstalled column is
-blank or "-". Any other value (a date, "?", "check date!!!!", etc.) marks
-it retired/replaced and it's excluded. Rows with no numeric ID (test or
-placeholder rows, e.g. the indoor Kypseli row with no PurpleAir ID) are
-also excluded, regardless of the Uninstalled column.
+A station counts as "active" (included) only when its Uninstalled column
+is exactly "-". Any other value -- blank, a date, "?", "check date!!!!",
+etc. -- marks it retired/uninstalled/unclear and it's excluded. Rows with
+no numeric ID (test or placeholder rows, e.g. the indoor Kypseli row with
+no PurpleAir ID) are also excluded, regardless of the Uninstalled column.
 
 Coordinates come from the spreadsheet's own "latitude"/"longitude" columns
 and are written into config.json's `stations` list, keyed by sensor_index.
