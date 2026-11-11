@@ -105,7 +105,7 @@ def load_stations(csv_path: Path) -> tuple[list[dict], list[dict]]:
             # a purpleair.com sensorlist link, no ID column value) -- skip
             # it outright regardless of the Uninstalled column.
             is_placeholder = not sensor_id.isdigit()
-            is_active = uninstalled in ("", "-")
+            is_active = uninstalled == "-"
 
             if is_placeholder:
                 log.info("Skipping row with no numeric PurpleAir ID: %s (%s)", name, sensor_id)
