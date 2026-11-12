@@ -38,7 +38,8 @@
     23837,
     321726,
     308886,
-    308902
+    308902,
+    323026
   ],
   "stations": [
     {
@@ -285,6 +286,13 @@
       "name": "Minority_Upat_03_indoor",
       "latitude": 38.29140188,
       "longitude": 21.78857095
+    },
+    {
+      "sensor_index": 323026,
+      "sn": "104",
+      "name": "Minority_Xiou_04_indoor",
+      "latitude": 38.29900976,
+      "longitude": 21.78859158
     }
   ],
   "history": {
