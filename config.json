@@ -39,7 +39,8 @@
     321726,
     308886,
     308902,
-    323026
+    323026,
+    308912
   ],
   "stations": [
     {
@@ -290,9 +291,16 @@
     {
       "sensor_index": 323026,
       "sn": "104",
-      "name": "Minority_Xiou_04_indoor",
+      "name": "Minority_Xiou_04",
       "latitude": 38.29900976,
       "longitude": 21.78859158
+    },
+    {
+      "sensor_index": 308912,
+      "sn": "105",
+      "name": "Minority_WGR_HQ_indoor",
+      "latitude": 38.2613977,
+      "longitude": 21.7504028
     }
   ],
   "history": {
