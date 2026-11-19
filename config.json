@@ -11,7 +11,7 @@
     1672,
     199161,
     14857,
-    23759,
+    308906,
     56113,
     133608,
     308300,
@@ -30,6 +30,7 @@
     293989,
     121513,
     202577,
+    202609,
     57523,
     298495,
     14993,
@@ -40,7 +41,8 @@
     308886,
     308902,
     323026,
-    308912
+    308912,
+    23759
   ],
   "stations": [
     {
@@ -93,9 +95,9 @@
       "longitude": 21.743774
     },
     {
-      "sensor_index": 23759,
+      "sensor_index": 308906,
       "sn": "8",
-      "name": "Germanou",
+      "name": "Germanou_2026",
       "latitude": 38.241177,
       "longitude": 21.741581
     },
@@ -226,43 +228,50 @@
       "longitude": 21.74546137
     },
     {
-      "sensor_index": 57523,
+      "sensor_index": 202609,
       "sn": "27",
+      "name": "13 Gymnasio Patras",
+      "latitude": 38.27484898,
+      "longitude": 21.7562749
+    },
+    {
+      "sensor_index": 57523,
+      "sn": "28",
       "name": "Drepano",
       "latitude": null,
       "longitude": null
     },
     {
       "sensor_index": 298495,
-      "sn": "28",
+      "sn": "29",
       "name": "Araxovitika 2025",
       "latitude": 38.33,
       "longitude": 21.84139
     },
     {
       "sensor_index": 14993,
-      "sn": "29",
+      "sn": "30",
       "name": "Upatras Ps",
       "latitude": null,
       "longitude": null
     },
     {
       "sensor_index": 26539,
-      "sn": "30",
+      "sn": "31",
       "name": "Nafpaktos-Kotroni",
       "latitude": 38.3806655,
       "longitude": 21.79871956
     },
     {
       "sensor_index": 31135,
-      "sn": "31",
+      "sn": "32",
       "name": "Nafpaktos-Siamanta",
       "latitude": 38.39656,
       "longitude": 21.71781
     },
     {
       "sensor_index": 23837,
-      "sn": "32",
+      "sn": "33",
       "name": "FORTH",
       "latitude": 38.2977342,
       "longitude": 21.80899786
@@ -301,6 +310,13 @@
       "name": "Minority_WGR_HQ_indoor",
       "latitude": 38.2613977,
       "longitude": 21.7504028
+    },
+    {
+      "sensor_index": 23759,
+      "sn": "8",
+      "name": "Germanou",
+      "latitude": 38.241177,
+      "longitude": 21.741581
     }
   ],
   "history": {
